@@ -1,0 +1,28 @@
+﻿client.Simulator
+================
+
+.. currentmodule:: client
+
+.. autoclass:: Simulator
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Simulator.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Simulator.credential
+   
+   

@@ -1,0 +1,22 @@
+﻿client.Solution
+===============
+
+.. currentmodule:: client
+
+.. autoclass:: Solution
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Solution.__init__
+   
+   
+
+   
+   
+   
