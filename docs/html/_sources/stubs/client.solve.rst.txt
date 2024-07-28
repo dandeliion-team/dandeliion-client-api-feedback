@@ -1,6 +1,0 @@
-﻿client.solve
-============
-
-.. currentmodule:: client
-
-.. autofunction:: solve
