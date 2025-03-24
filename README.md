@@ -1,5 +1,5 @@
 # dandeliion-client-api-feedback
-This is a private repository dedicated to collecting feedback, bug reports, and feature requests for dandeliion-client. 
+This repository is dedicated to collecting feedback, bug reports, and feature requests for dandeliion-client. 
 
 Purpose:
 - To track and manage issues related to dandeliion-client
@@ -8,4 +8,4 @@ Purpose:
 
 Guidelines for submitting feedback:
 1. Please provide clear and concise descriptions of issues or suggestions.
-2. For bug reports, include steps to reproduce, expected behavior, and actual behavior.
+2. For bug reports, include steps to reproduce, expected behaviour, and actual behaviour.
