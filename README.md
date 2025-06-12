@@ -1,11 +1,9 @@
 # dandeliion-client-api-feedback
-This repository is dedicated to collecting feedback, bug reports, and feature requests for dandeliion-client. 
 
-Purpose:
-- To track and manage issues related to dandeliion-client
-- To gather user feedback and suggestions
-- To discuss potential improvements and new features
+All issues related to DandeLiion Python client and API were moved to [`dandeliion-client`](https://github.com/dandeliion-team/dandeliion-client) repo, which is now public.
 
-Guidelines for submitting feedback:
-1. Please provide clear and concise descriptions of issues or suggestions.
-2. For bug reports, include steps to reproduce, expected behaviour, and actual behaviour.
+New issues can be submitted here:
+
+[https://github.com/dandeliion-team/dandeliion-client/issues](https://github.com/dandeliion-team/dandeliion-client/issues)
+
+----
